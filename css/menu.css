@@ -1,7 +1,0 @@
-.title span {
-    display: inline-block;
-    white-space: pre;
-    animation: type .2s ease-in;
-  }
-  
-  @keyframes type { 60%, 70% { transform: scale(1.3); } }
